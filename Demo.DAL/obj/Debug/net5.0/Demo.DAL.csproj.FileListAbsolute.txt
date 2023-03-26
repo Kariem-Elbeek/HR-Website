@@ -1,0 +1,12 @@
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

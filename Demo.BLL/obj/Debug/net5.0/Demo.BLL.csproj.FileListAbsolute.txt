@@ -1,0 +1,15 @@
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\ACADEMY ROUTE\Back End\Eng Ahmed Nasr\07 ASP.NET MVC\MVC Project\MVC_Project_Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
